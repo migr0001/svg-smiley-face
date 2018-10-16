@@ -28,3 +28,7 @@
 .smiley:hover .right-eyebrow {
   transform: rotate(80deg);
 }
+
+html {
+  background-color: #fff;
+}
